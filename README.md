@@ -4,7 +4,7 @@
   <img src="/brand/mark-128.png" width="96" height="96" alt="Rebatix Logo" />
 </p>
 
-Rebatix is a token launchpad on Robinhood Chain where every buy comes with bonus tokens on top, and holders share payouts from every trade, paid directly in the token's pair token (USDG, ETH, etc.). Rebranded from Rebate Pad to **Rebatix** ($RBTX).
+Rebatix is a token launchpad on Solana where every buy comes with bonus tokens on top, and holders share payouts from every trade, paid directly in the token's pair token (USDG, ETH, etc.). Rebranded from Rebate Pad to **Rebatix** ($RBTX).
 
 ## 🚀 Key Features
 
@@ -16,7 +16,7 @@ Rebatix is a token launchpad on Robinhood Chain where every buy comes with bonus
 
 ## 📄 Contract Address
 - **Status**: `live now on pump.fun`
-- **Network**: Robinhood Chain
+- **Network**: Solana
 
 ## 🛠 Deployment
 

@@ -1,7 +1,7 @@
 {
   "project": "Rebatix",
   "symbol": "$RBTX",
-  "network": "Robinhood Chain",
+  "network": "Solana",
   "contract": "live now on pump.fun",
   "status": "live",
   "pair_token": "USDG",
