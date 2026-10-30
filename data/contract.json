@@ -1,0 +1,12 @@
+{
+  "project": "Rebatix",
+  "symbol": "$RBTX",
+  "network": "Robinhood Chain",
+  "contract": "live now on pump.fun",
+  "status": "live",
+  "pair_token": "USDG",
+  "total_supply": 1000000000,
+  "bonus_rate": "3%",
+  "sell_fee": "3%",
+  "holder_payout": "0.5% in USDG"
+}

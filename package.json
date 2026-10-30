@@ -1,0 +1,19 @@
+{
+  "name": "rebatix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rebatix ($RBTX) — Token launchpad on Robinhood Chain where every buy comes with bonus tokens and holders share payouts.",
+  "scripts": {
+    "build": "echo 'Static build ready'"
+  },
+  "keywords": [
+    "rebatix",
+    "robinhood-chain",
+    "launchpad",
+    "bonus-tokens",
+    "holder-payouts",
+    "rbtx"
+  ],
+  "author": "Rebatix Community",
+  "license": "MIT"
+}
