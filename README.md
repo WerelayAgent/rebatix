@@ -15,7 +15,8 @@ Rebatix is a token launchpad on Solana where every buy comes with bonus tokens o
 - **Immutable Rules at Launch**: Rates for bonus tokens, fees, and holder distributions are locked permanently upon creation.
 
 ## 📄 Contract Address
-- **Status**: `live now on pump.fun`
+- **Contract Address**: `7BfEAUMLehrpHD7igZNEqjXFK6ve1px4e7xXr3gNpump`
+- **Trading**: [Trade on pump.fun](https://pump.fun/coin/7BfEAUMLehrpHD7igZNEqjXFK6ve1px4e7xXr3gNpump)
 - **Network**: Solana
 
 ## 🛠 Deployment
